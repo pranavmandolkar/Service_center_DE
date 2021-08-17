@@ -25,16 +25,16 @@ Data Definitions:
 * Mnfcture_wk – week when product was manufactured
 * Contract_st – week when warranty became active
 * Contract_end – week when warranty expires
-Contact_wk – week when customer contacted Dell about a problem
-Contact_type – way that customer contacted Dell
-Issue_type – type of problem identified by customer
-Topic_category – type of problem as classified by the tech support agent
-Parts_sent – what parts were sent to fix the problem
-Repair_type – if a part was required, this is a hard repair; otherwise, a soft repair
-Repeat_ct – how many additional visits were required to fix the problem, past the first one
-Parts_ct – how many parts were sent to fix the problem
-Agent_tenure_indays – how long the tech support agent has worked in Dell tech support
-Contact_manager_flg – did the tech support agent have to bring in a manager to solve the problem
-Diagnostics – were agents compliant with diagnostic usage
-Repeat_parts_sent – which parts were sent on additional visit
+* Contact_wk – week when customer contacted Dell about a problem
+* Contact_type – way that customer contacted Dell
+* Issue_type – type of problem identified by customer
+* Topic_category – type of problem as classified by the tech support agent
+* Parts_sent – what parts were sent to fix the problem
+* Repair_type – if a part was required, this is a hard repair; otherwise, a soft repair
+* Repeat_ct – how many additional visits were required to fix the problem, past the first one
+* Parts_ct – how many parts were sent to fix the problem
+* Agent_tenure_indays – how long the tech support agent has worked in Dell tech support
+* Contact_manager_flg – did the tech support agent have to bring in a manager to solve the problem
+* Diagnostics – were agents compliant with diagnostic usage
+* Repeat_parts_sent – which parts were sent on additional visit
 
