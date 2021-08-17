@@ -18,13 +18,13 @@ Next steps for Predictions (Not applied here as goal was not to predict any valu
 
 
 Data Definitions:
-Asst_id – an identifier for each individual machine sold
-Product_type – class of product that describes the asset
-Region – region where the asset is located
-Country – country where the asset is located
-Mnfcture_wk – week when product was manufactured
-Contract_st – week when warranty became active
-Contract_end – week when warranty expires
+* Asst_id – an identifier for each individual machine sold
+* Product_type – class of product that describes the asset
+* Region – region where the asset is located
+* Country – country where the asset is located
+* Mnfcture_wk – week when product was manufactured
+* Contract_st – week when warranty became active
+* Contract_end – week when warranty expires
 Contact_wk – week when customer contacted Dell about a problem
 Contact_type – way that customer contacted Dell
 Issue_type – type of problem identified by customer
